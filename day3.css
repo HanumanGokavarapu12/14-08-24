@@ -1,0 +1,35 @@
+body{
+    background:url(https://media.istockphoto.com/id/912159594/photo/soft-wave-of-turquoise-sea-water-on-the-sandy-beach-close-up-and-directly-above-photographed.webp?b=1&s=612x612&w=0&k=20&c=IvqjiIvpBZOMkoG775meBQbjSTQupdPB61QhFHT6KRs=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+q .img{
+    width: 100px;
+}
+.q{
+    background-color:rgba(128, 128, 128, 0.538);
+}
+#f{
+    margin-left: 600px;
+    color: aliceblue;
+}
+#g{
+    margin-left: 30px;
+    color: aliceblue;
+}
+.a{
+    display: inline-block;
+    width: 500px;
+    background-color: lightskyblue;
+    border:2px solid green;
+    margin: 50px;
+    box-shadow: 3px 3px 3px orange;
+}
+.b{
+    display: inline-block;
+    width: 700px;
+    background-color: coral;
+    border:2px solid black;
+    margin: 50px;
+    box-shadow: 3px 3px 3px rgb(0, 136, 255);
+}
